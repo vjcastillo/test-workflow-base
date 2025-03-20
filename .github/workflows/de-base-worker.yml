@@ -6,4 +6,4 @@ on:
       repo-name:
         description: "test-workflow-base"
         required: true
-        type: string
+        type: string.
