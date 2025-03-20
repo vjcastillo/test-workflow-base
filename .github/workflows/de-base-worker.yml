@@ -1,0 +1,9 @@
+name: test-workflow-base
+ 
+on:
+  workflow_dispatch:
+    inputs:
+      repo-name:
+        description: "test-workflow-base"
+        required: true
+        type: string
