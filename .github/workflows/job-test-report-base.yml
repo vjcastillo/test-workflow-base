@@ -1,9 +1,1 @@
-name: test-workflow-base
- 
-on:
-  workflow_dispatch:
-    inputs:
-      repo-name:
-        description: "test-workflow-base"
-        required: true
-        type: string
+https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fus02web.zoom.us%2fj%2f82930905069%3fpwd%3d9R4B51fwsFcwoFOfrFvkd290RE0uoc.1&c=E,1,xsxE-QMwANN64OBEHR7q0eoLCu7lg6e6_xtUHhCgmT0qXguFdyC-mQ1nL1_Ees_d3TpuIWJLug-8cZ1Z_HYEa5rfOIhmyZ4t7Q4rdBY2aw,,&typo=1&ancr_add=1
